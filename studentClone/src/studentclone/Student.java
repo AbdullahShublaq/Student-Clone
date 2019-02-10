@@ -7,8 +7,9 @@ package studentclone;
 
 /**
  *
- * @author jit
+ * @author Abdullah Shublaq
  */
+
 public class Student implements Cloneable{
 
     @Override
